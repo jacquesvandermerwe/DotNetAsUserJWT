@@ -1,6 +1,7 @@
 
 # Project related files
 config.json
+mck*.json
 
 ### Csharp ###
 ## Ignore Visual Studio temporary files, build results, and
